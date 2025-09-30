@@ -29,7 +29,7 @@ It offers secure login/registration, task management, progress tracking, and **i
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/sparkdesk.git
+   git clone https://github.com/thulasikumar0423/SparkDesk-Project.git
    
 2.Configure the database
 Update src/main/resources/application.properties:
